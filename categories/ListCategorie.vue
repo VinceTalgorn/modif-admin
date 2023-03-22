@@ -115,7 +115,7 @@ header h2 {
     cursor: pointer;
 }
 
-.liste-pins:hover {
+.liste-categories:hover {
     transition: all 0.3s ease-in-out;
     transform: scale(1.1);
 }
