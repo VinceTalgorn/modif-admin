@@ -19,8 +19,9 @@
             <button type="submit" class="btn" @click="updateCategorie">
                 Update
             </button>
-            <router-link to="/admin/categories/listcategories" class="return"
-                >Retour à la liste des categories</router-link
+            <router-link to="/admin/categories/listcategories" class="return">
+                <i class="fa-sharp fa-solid fa-arrow-left"></i>Retour à la liste
+                des categories</router-link
             >
         </footer>
     </div>
